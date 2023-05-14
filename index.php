@@ -12,7 +12,7 @@
 <body>
 
     <div class="container">
-        <h1>Welcome to my app!</h1>
+        <h1>Welcome to my app!!</h1>
         <hr>
         <form action="greeting.php" method="POST">
             <div class="form-group">
